@@ -1,0 +1,63 @@
+
+.carousel-caption{
+    padding: 50px 5%;
+}
+.carousel-caption h5{
+    font-size: 65px;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.emip{
+    width: 40%;
+}
+
+.title{
+    margin-bottom: 100px;
+}
+
+.list-group-item{
+    border: none;
+    padding-left: 0;
+}
+
+.icon-list {
+    background: #EDEBF8;
+    color: #5344C2;
+}
+
+.package .title{
+    margin-bottom: 100px;
+}
+.pricing{
+    border-radius: 30px;
+}
+.badge {
+    right: 0px;
+    padding: 16px;
+    font-size: 15px;
+}
+
+footer{
+    background-color: #0B0D17;
+    padding: 100px 0;
+}
+
+
+
+/@media (min-width: 576px){
+    section{
+        margin-bottom: 50px;
+    }
+    .carousel-caption {
+        padding: 0
+    }
+    .carousel-caption h5 {
+        font-size: 28px;
+    }
+    .carousel-caption p {
+        font-size: 16px !important;
+    }
+}
